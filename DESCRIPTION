@@ -20,4 +20,9 @@ Depends:
   xts
 Encoding: UTF-8
 LazyData: true
+<<<<<<< HEAD
 RoxygenNote: 6.0.1
+=======
+
+
+>>>>>>> 790869ce1ab607052717f007f60d8cb0ad12e870
